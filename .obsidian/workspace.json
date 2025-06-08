@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Published/Test.md",
+                "file": "03 - Published/Simple Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Simple Test"
             }
           }
         ],
@@ -225,8 +225,9 @@
   },
   "active": "44f88dde626a93a4",
   "lastOpenFiles": [
-    "03 - Published/This is a huge test.md",
     "03 - Published/Test.md",
+    "03 - Published/Simple Test.md",
+    "03 - Published/This is a huge test.md",
     "03 - Published/My First AI-Enhanced Blog Post 3.md",
     "README.md",
     "03 - Published/My First AI-Enhanced Blog Post 4.md",
