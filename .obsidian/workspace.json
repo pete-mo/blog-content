@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "My First AI-Enhanced Blog Post 4"
             }
+          },
+          {
+            "id": "44f88dde626a93a4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.2"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,7 +221,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "50a8e680c8605232",
+  "active": "44f88dde626a93a4",
   "lastOpenFiles": [
     "README.md",
     "03 - Published/My First AI-Enhanced Blog Post 3.md",
