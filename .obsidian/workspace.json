@@ -25,12 +25,14 @@
             "id": "44f88dde626a93a4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.2"
+                "file": "03 - Published/This is a huge test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.2"
+              "icon": "lucide-file",
+              "title": "This is a huge test"
             }
           }
         ],
@@ -223,8 +225,9 @@
   },
   "active": "44f88dde626a93a4",
   "lastOpenFiles": [
-    "README.md",
     "03 - Published/My First AI-Enhanced Blog Post 3.md",
+    "03 - Published/This is a huge test.md",
+    "README.md",
     "03 - Published/My First AI-Enhanced Blog Post 4.md",
     "03 - Published/Untitled.md",
     "03 - Published/My First AI-Enhanced Blog Post.md",
