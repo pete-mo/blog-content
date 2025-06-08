@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Published/Simple Test.md",
+                "file": "03 - Published/My First AI-Enhanced Blog Post 3.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Simple Test"
+              "title": "My First AI-Enhanced Blog Post 3"
             }
           }
         ],
@@ -225,13 +225,13 @@
   },
   "active": "44f88dde626a93a4",
   "lastOpenFiles": [
-    "03 - Published/Test.md",
-    "03 - Published/Simple Test.md",
-    "03 - Published/This is a huge test.md",
-    "03 - Published/My First AI-Enhanced Blog Post 3.md",
-    "README.md",
     "03 - Published/My First AI-Enhanced Blog Post 4.md",
+    "03 - Published/My First AI-Enhanced Blog Post 3.md",
     "03 - Published/My First AI-Enhanced Blog Post.md",
+    "03 - Published/Simple Test.md",
+    "03 - Published/Test.md",
+    "03 - Published/This is a huge test.md",
+    "README.md",
     "01 - Drafts/Draft Test 1.md",
     "Meta/Content Dashboard.md",
     "Templates/Technical Tutorial.md",

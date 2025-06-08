@@ -1,5 +1,5 @@
 ---
-title: Building an AI-Enhanced Blog with Obsidian and 11tee
+title: "Building an AI-Enhanced Blog with Obsidian and 11tee"
 slug: ai-enhanced-blog-obsidian-11ty
 date: 2025-06-06
 updated: 2025-06-06
