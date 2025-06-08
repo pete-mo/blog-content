@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Published/Test Post 2.md",
+                "file": "03 - Published/Newest Test Post.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Test Post 2"
+              "title": "Newest Test Post"
             }
           }
         ]
@@ -210,12 +210,12 @@
   },
   "active": "44f88dde626a93a4",
   "lastOpenFiles": [
+    "03 - Published/Test Post 2.md",
     "03 - Published/Newest Test Post.md",
     "02 - In Review/Newest Test Post.md",
     "Newest Test Post.md",
     "Untitled.md",
     "Templates/Simple Post Template.md",
-    "03 - Published/Test Post 2.md",
     "Untitled 1.md",
     "03 - Published/Simple Test.md",
     "01 - Drafts/Draft Test 1.md",
