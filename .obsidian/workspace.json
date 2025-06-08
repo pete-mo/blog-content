@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Published/Newest Test Post.md",
+                "file": "03 - Published/Simple Test.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Newest Test Post"
+              "title": "Simple Test"
             }
           }
         ]
