@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Published/Simple Test.md",
+                "file": "03 - Published/Test Post 2.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Simple Test"
+              "title": "Test Post 2"
             }
           }
         ]
@@ -208,20 +208,24 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "44f88dde626a93a4",
+  "active": "62115cd99786b57b",
   "lastOpenFiles": [
-    "03 - Published/Try This One.md",
+    "Templates/Simple Post Template.md",
+    "03 - Published/Test Post 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "03 - Published/Simple Test.md",
+    "01 - Drafts/Draft Test 1.md",
+    "Templates/Blog Post Template.md",
+    "03 - Published/Try This One.md",
     "03 - Published/Test.md",
     "03 - Published/My First AI-Enhanced Blog Post 4.md",
     "03 - Published/This is a huge test.md",
     "03 - Published/My First AI-Enhanced Blog Post 3.md",
     "03 - Published/My First AI-Enhanced Blog Post.md",
     "README.md",
-    "01 - Drafts/Draft Test 1.md",
     "Meta/Content Dashboard.md",
     "Templates/Technical Tutorial.md",
-    "Templates/Blog Post Template.md",
     "Assets/Files",
     "Assets/Images",
     "Meta/Content Calendar",
